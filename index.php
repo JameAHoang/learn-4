@@ -83,6 +83,9 @@
 		 <div id="result" style="color: white"></div>
 
 		</div>
+		<div>
+			<a href="jameahoang.hocweb.cf/learn-4/userView">Xem danh sách</a>
+		</div>
 		
 
 	<script type="text/javascript">
